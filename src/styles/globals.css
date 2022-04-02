@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply border-2 text-sm border-slate-50 text-slate-50 rounded-md py-1 px-4 mx-2 hover:shadow-lg hover:shadow-indigo-500 transition-all my-2 hover:bg-slate-50 hover:text-slate-900;
+  }
+
+  .nav-link {
+    @apply mx-2 text-slate-300 hover:text-slate-50 transition-all hover:shadow-md hover:shadow-indigo-600 py-1 px-4 rounded-md hover:cursor-pointer;
+  }
+}
