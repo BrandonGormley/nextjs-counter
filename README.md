@@ -40,7 +40,7 @@ All you will have to do is clone the repo, run npm install, and then spin up the
 
 Clone Repo:
 
-`git clone https://github.com/BrandonGormley/counter-three.git`
+`git clone https://github.com/BrandonGormley/nextjs-counter.git`
 
 Run NPM Install to install all packages needed:
 
